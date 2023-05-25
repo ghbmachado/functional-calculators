@@ -1,4 +1,4 @@
-# Functional calculators
+# Functional Calculators
 
 <a href="https://ghbmachado.github.io/functional-calculators/">Access the project here</a></p>
 
